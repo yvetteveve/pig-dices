@@ -74,4 +74,4 @@ E-mail:yvetteumubyey2@gmail.com
 Tel:0782237885.
 ### License
 **[MIT](http://choosealisence.com/licenses/mit/)**
-Copyright (c) 2019 **HATEGEKIMANA NICOLE**
+Copyright (c) 2019 **YVETTE UMUBYEYI**
