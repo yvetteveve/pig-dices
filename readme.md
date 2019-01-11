@@ -17,7 +17,7 @@ Quiz board website can be view on mobile or computer and with ease and it is mad
 #### Behavior :
  Player 1 inputs name and Player 2 inputs name, and clicks start button
 ##### Input:
-Player 1: Roll/ Player 2:Hold / Click START
+Player 1: az/ Player 2:ac / Click START
 ##### Output:
 Goes to game console
  
