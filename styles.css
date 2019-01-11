@@ -2,11 +2,12 @@
     display: none;
   }
 body{
-    background-color:rgb(61, 34, 66);
+    background-image:url("https://static.videezy.com/system/resources/thumbnails/000/018/021/small/halloween-purple-background-animation-with-pumpkin-and-bats-falling-down-and-hanging-on-strings.jpg");
+    background-size:cover; 
     font-style: italic;
     color:rgb(207, 29, 59);
     text-align: center;
-    
+    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-m46dV4ZMk8F99q52LZ1wZcrYJpE8iPMU4ZNVSW3MRgE6Jlof" 
 }
 h1{
 font-style: italic; 
