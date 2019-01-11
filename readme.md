@@ -71,7 +71,7 @@ I also used ubuntu software and visual studio code to write my code and used git
 ## Support and contact details
 ####If needed contact me on:
 E-mail:yvetteumubyey2@gmail.com
-Tel:0732702205-0781899928.
+Tel:0782237885.
 ### License
 **[MIT](http://choosealisence.com/licenses/mit/)**
 Copyright (c) 2019 **HATEGEKIMANA NICOLE**
