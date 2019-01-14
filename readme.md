@@ -5,7 +5,7 @@ Players throw a dice and scores as many points as the total shown on the dice pr
 ## Setup/Installation Requirements
 * Open your computer
 * Connect to internet
-* search for my link: https://yvetteveve.github.io/pig-dice/
+* search for my link: https://yvetteveve.github.io/pig-dices/
 * There you are, Time for game!
 Quiz board website can be view on mobile or computer and with ease and it is made for easy learning.
 ## BDD(Behavior-Driven Development)
